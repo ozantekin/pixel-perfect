@@ -46,7 +46,7 @@
 ## Figma Plugins
 
 - [Hand››over](https://www.figma.com/community/plugin/837070613195594890/Hand%E2%80%BA%E2%80%BAover)
-- []()
+- [Responsify ⚡️](https://www.figma.com/community/plugin/743654854885744527)
 - []()
 - []()
 - []()
